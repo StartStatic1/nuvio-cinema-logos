@@ -1,21 +1,21 @@
 # Nuvio Cinema por Décadas
 
-Logos vetoriais originais para a Collection **Filmes por Ano** no Nuvio.
+Capas cinematográficas originais para a Collection **Filmes por Ano** no Nuvio. Cada capa combina uma cena de cinema original com o ano da década em destaque.
 
-Arquivos:
+## Capas finais
 
-- `anos-80.svg`
-- `anos-90.svg`
-- `anos-2000.svg`
-- `anos-2010.svg`
-- `anos-2020.svg`
+- `capa_80s.png` — Anos 80
+- `capa_90s.png` — Anos 90
+- `capa_2000s.png` — Anos 2000
+- `capa_2010s.png` — Anos 2010
+- `capa_2020s.png` — Anos 2020
 
-URLs jsDelivr:
+## URLs jsDelivr
 
 ```text
-https://cdn.jsdelivr.net/gh/REPLACE_OWNER/nuvio-cinema-logos@main/anos-80.svg
-https://cdn.jsdelivr.net/gh/REPLACE_OWNER/nuvio-cinema-logos@main/anos-90.svg
-https://cdn.jsdelivr.net/gh/REPLACE_OWNER/nuvio-cinema-logos@main/anos-2000.svg
-https://cdn.jsdelivr.net/gh/REPLACE_OWNER/nuvio-cinema-logos@main/anos-2010.svg
-https://cdn.jsdelivr.net/gh/REPLACE_OWNER/nuvio-cinema-logos@main/anos-2020.svg
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_80s.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_90s.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_2000s.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_2010s.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_2020s.png
 ```
