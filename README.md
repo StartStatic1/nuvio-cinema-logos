@@ -1,21 +1,26 @@
 # Nuvio Cinema por Décadas
 
-Capas cinematográficas originais para a Collection **Filmes por Ano** no Nuvio. Cada capa combina uma cena de cinema original com o ano da década em destaque.
+Banners cinematográficos originais em formato **landscape 16:9** para a Collection **Filmes por Ano** no Nuvio.
 
-## Capas finais
+## Estrutura
 
-- `capa_80s.png` — Anos 80
-- `capa_90s.png` — Anos 90
-- `capa_2000s.png` — Anos 2000
-- `capa_2010s.png` — Anos 2010
-- `capa_2020s.png` — Anos 2020
+```text
+decades/
+├── 1980s/1980s-landscape.png
+├── 1990s/1990s-landscape.png
+├── 2000s/2000s-landscape.png
+├── 2010s/2010s-landscape.png
+└── 2020s/2020s-landscape.png
+```
 
 ## URLs jsDelivr
 
 ```text
-https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_80s.png
-https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_90s.png
-https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_2000s.png
-https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_2010s.png
-https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/capa_2020s.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/decades/1980s/1980s-landscape.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/decades/1990s/1990s-landscape.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/decades/2000s/2000s-landscape.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/decades/2010s/2010s-landscape.png
+https://cdn.jsdelivr.net/gh/StartStatic1/nuvio-cinema-logos@main/decades/2020s/2020s-landscape.png
 ```
+
+As imagens são artes originais inspiradas em linguagens cinematográficas de cada década, sem copiar posters, atores ou personagens identificáveis.
